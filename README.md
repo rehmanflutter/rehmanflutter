@@ -2,21 +2,15 @@
 <h3 align="center">A passionate frontend Mobile Application and Web developer from</h3>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Typewriter Effect</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="typewriter">
-        <h1 id="text"></h1>
-    </div>
-    <script src="script.js"></script>
-</body>
-</html>
+<h1 align="center" style="color: #00aaff; font-size: 48px; font-family: 'Comic Sans MS', 'Arial', sans-serif;">
+    Hi There!
+</h1>
+
+---
+
+### About Me 🙋‍♀️
+I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer with a passion for Flutter development. Since I started learning Flutter in 2021, I have been dedicated to developing applications that meet exact requirements and deliver exceptional user experiences. I learn quickly and am available to work.
+
 
 
 
