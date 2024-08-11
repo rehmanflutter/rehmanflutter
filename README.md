@@ -3,11 +3,7 @@
 </div>
 
 
-
-
-
 ---
-
 <br>
 <h3 align="center">A passionate frontend Mobile Application and Web developer from</h3>
 
