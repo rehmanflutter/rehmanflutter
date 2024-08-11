@@ -2,17 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Rehman!+👩🏻‍💻;" />
 </div>
 
-</div>
-<br>
-
-<br>
-<h3 align="center">A passionate frontend Mobile Application and Web developer from</h3>
-
-### About Me 🙋‍♀️
 
 
+## About Me 🙋🏻‍♀
 
-I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer with a passion for Flutter development. Since I started learning Flutter in 2021, I have been dedicated to developing applications that meet exact requirements and deliver exceptional user experiences. I learn quickly and am available to work.
+I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer with a passion for Flutter development . Since I started learning Flutter in 2021, I have been dedicated to developing applications that meet exact requirements and deliver exceptional user experiences. I learn quickly and am available to work.
 
 
 
