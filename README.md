@@ -1,6 +1,30 @@
 <h1 align="center">Hi 👋, I'm AbdulRehman</h1>
 <h3 align="center">A passionate frontend Mobile Application and Web developer from</h3>
 
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="40" font-size="24" font-family="Arial" fill="black">
+    <tspan id="word1" style="opacity: 1;">Hello</tspan>
+    <tspan id="word2" style="opacity: 0;">World!</tspan>
+    <animate
+      xlink:href="#word1"
+      attributeName="opacity"
+      values="1;0"
+      dur="2s"
+      begin="0s;word2.end"
+      fill="freeze"
+    />
+    <animate
+      xlink:href="#word2"
+      attributeName="opacity"
+      values="0;1"
+      dur="2s"
+      begin="word1.end"
+      fill="freeze"
+    />
+  </text>
+</svg>
+
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rehmanflutter](https://github.com/rehmanflutter)
