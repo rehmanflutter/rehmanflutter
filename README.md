@@ -18,15 +18,6 @@ I'm Abdul Rehman, a highly ambitious and detail-oriented software engineer with 
 I'm open to new opportunities where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/rehmanflutter](https://github.com/rehmanflutter)
-
-- 📝 I regularly write articles on [https://www.instagram.com/rehmanflutter/](https://www.instagram.com/rehmanflutter/)
-
-- 📫 How to reach me **https://www.linkedin.com/in/rehmanflutter/**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/rehmanflutter/](https://www.linkedin.com/in/rehmanflutter/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
