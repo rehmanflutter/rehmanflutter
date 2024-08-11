@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AbdulRehman+Elkhelawy!+👩🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AbdulRehman!+👩🏻‍💻;" />
 </div>
 <br>
 
@@ -38,3 +38,21 @@ About Me 🙋🏻‍♀
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmanflutter&show_icons=true&locale=en&layout=compact" alt="rehmanflutter" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehmanflutter&show_icons=true&locale=en" alt="rehmanflutter" /></p>
+
+
+
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
+<!--
+
+
