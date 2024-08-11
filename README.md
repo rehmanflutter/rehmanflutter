@@ -2,27 +2,10 @@
 <h3 align="center">A passionate frontend Mobile Application and Web developer from</h3>
 
 
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font-family: Arial, sans-serif;
-      font-size: 40px;
-      fill: #00aaff;
-      text-anchor: middle;
-      opacity: 0;
-      animation: fadeInOut 4s infinite;
-    }
-
-    @keyframes fadeInOut {
-      0%   { opacity: 0; }
-      25%  { opacity: 1; }
-      75%  { opacity: 1; }
-      100% { opacity: 0; }
-    }
-  </style>
-
-  <text x="300" y="60" class="text">I am Abdulrehman</text>
-</svg>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AbdulRehman+Elkhelawy!+👩🏻‍💻;" />
+</div>
+<br>
 
 ---
 
