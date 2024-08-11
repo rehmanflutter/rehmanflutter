@@ -9,6 +9,14 @@
 I'm Mariam Elkhelawy, a highly ambitious and detail-oriented software engineer with a passion for Flutter development . Since I started learning Flutter in 2021, I have been dedicated to developing applications that meet exact requirements and deliver exceptional user experiences. I learn quickly and am available to work.
 
 
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🌟 Available for New Opportunities:
+I'm open to new opportunities where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
