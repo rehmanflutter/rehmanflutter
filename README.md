@@ -10,10 +10,11 @@ I'm Abdul Rehman, a highly ambitious and detail-oriented software engineer with 
 
 
 <br>
-<div align="center">
+<div align="center" style="background-color: #00FF00; padding: 10px;">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+
 
 ## 🌟 Available for New Opportunities:
 I'm open to new opportunities where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
