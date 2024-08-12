@@ -46,7 +46,7 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
 
 
 
-S
+
 
 
 
