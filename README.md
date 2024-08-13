@@ -51,6 +51,15 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
 
 
 
+### Profile Views
+
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@xkas01.github.readme)
+</br>
+
+
+</p>
 
 
 
