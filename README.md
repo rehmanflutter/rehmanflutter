@@ -10,7 +10,7 @@
 
 ## About Me 🙋‍♂️ 
 
-I am a Mobile Application Developer with vast collection of skills, and extensive knowledge of programing language like C++, java, and Dart. I have worked in several environments from starts-up, building a mobile application from the ground up and transforming ideas into realties. I can create native and beautiful UI design for your application.
+I am a Mobile Application Developer with vast collection of skills, and extensive knowledge of programing language like c, C++, java, data structures algorithms, and Dart. I have worked in several environments from starts-up, building a mobile application from the ground up and transforming ideas into realties. I can create native and beautiful UI design for your application.
 Since I started learning Flutter in 2022, I have been dedicated to developing applications that meet exact  requirements and deliver exceptional user experiences.
 
 
