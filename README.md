@@ -1,10 +1,3 @@
-![](assets/Bottom_up.svg)
-
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/xkas01/xkas01"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/xkas01/xkas01/graphs/contributors"><img src="https://img.shields.io/github/contributors/xkas01/xkas01?color=blue"></a>
-    <a href="https://github.com/xkas01/xkas01/stargazers"><img src="https://img.shields.io/github/stars/xkas01/xkas01.svg?logo=github"></a>
 
 
 <div align="center">
