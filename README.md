@@ -1,3 +1,10 @@
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/xkas01/xkas01"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/xkas01/xkas01/graphs/contributors"><img src="https://img.shields.io/github/contributors/xkas01/xkas01?color=blue"></a>
+    <a href="https://github.com/xkas01/xkas01/stargazers"><img src="https://img.shields.io/github/stars/xkas01/xkas01.svg?logo=github"></a>
+
+
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Rehman!+👩🏻‍💻;" />
 </div>
