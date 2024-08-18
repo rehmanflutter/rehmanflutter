@@ -53,10 +53,9 @@ I'm open to new opportunities where I can leverage my skills in Flutter developm
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmanflutter&show_icons=true&locale=en&layout=compact" alt="rehmanflutter" style="max-width: 100%; height: auto; margin-right: 20px;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador" style="min-width: 340px; max-width: 400px; width: 340px; margin-right: 20px;">
-  <p style="margin: 0;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rehmanflutter&show_icons=true&locale=en" alt="rehmanflutter" style="max-width: 100%; height: auto;">
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rehmanflutter&show_icons=true&locale=en" alt="rehmanflutter" style="max-width: 100%; height: auto;">
 </div>
+
 
 
 
