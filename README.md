@@ -21,8 +21,8 @@ Since I started learning Flutter in 2022, I have been dedicated to developing ap
 <br>
 
 
-## 🌟 Available for New Opportunities:
-I'm open to new opportunities where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
+## 🌟 Available for New Work:
+I'm open to new Work where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
 
 
 
