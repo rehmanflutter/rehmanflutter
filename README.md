@@ -48,6 +48,12 @@ I'm open to new Work where I can leverage my skills in Flutter development and c
 
 
 
+
+
+
+
+
+
 ## 🛠 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,xd,postman,java,js,c,cplusplus" /><br><br><br>
