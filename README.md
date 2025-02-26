@@ -7,7 +7,23 @@
 </div>
 
 
-
+<div align="center">
+    <a href="https://www.facebook.com/profile.php?id=61558101830341" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="border-radius: 50px;">
+    </a>
+    <a href="https://www.linkedin.com/in/rehmanflutter/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 70px;">
+    </a>
+    <a href="mailto:rehmanflutter1@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 20px;">
+    </a>
+    <a href="https://wa.me/03176484514" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 20px;">
+    </a>
+    <a href="https://www.instagram.com/rehmanflutter/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 20px;">
+    </a>
+</div>
 ## About Me 🙋‍♂️ 
 
 I am a Mobile Application Developer with vast collection of skills, and extensive knowledge of programing language like c, C++, java, data structures algorithms, and Dart. I have worked in several environments from starts-up, building a mobile application from the ground up and transforming ideas into realties. I can create native and beautiful UI design for your application.
