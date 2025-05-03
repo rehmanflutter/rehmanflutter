@@ -54,20 +54,17 @@ I'm open to new Work where I can leverage my skills in Flutter development and c
 
 
 
-## 🛠 Languages and Tools:<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,xd,postman,java,js,c,cpp,apple,xcode" /><br><br><br>
+## 🛠 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,xd,postman,java,js,c,cplusplus" /><br><br><br>
 </div>
+
+
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmanflutter&show_icons=true&locale=en&layout=compact" alt="rehmanflutter" style="width: 250px; height: 250px;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador" style="width: 300px; height: 300px;">
   <!--   <img src="https://github-readme-stats.vercel.app/api?username=rehmanflutter&show_icons=true&locale=en" alt="rehmanflutter" style="width: 250px; height: 250px;"> -->
-</div>
-
-</div>
-
-
-
 
 
 <br>
